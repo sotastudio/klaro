@@ -9,8 +9,10 @@ consentModal:
 consentNotice:
   changeDescription: There were changes since your last visit, please update your consent.
   description: >
-    We collect and process your personal information for the following purposes: {purposes}.
+    We collect and process your personal information for the following purposes: {purposes} {privacyPolicy}.
   learnMore: Customize
+  privacyPolicy:
+    name: privacy policy
 ok: Accept
 save: Save
 decline: Decline
